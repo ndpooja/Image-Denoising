@@ -24,7 +24,7 @@ Here, BSD500 color images are used for training and tested on CBSD68 dataset.
 
 `DnCNN_testing.ipynb` - Here, CBSD68 data are tested on DnCNN trained model having different noise values.
 
-`DIDN_testing.ipynb` - Here, CBSD68 data are tested on DnCNN trained model having different noise values.
+`DIDN_testing.ipynb` - Here, CBSD68 data are tested on DINN trained model having different noise values.
 
 ## References
 <a id="1">[1]</a>
