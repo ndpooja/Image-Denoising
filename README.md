@@ -1,6 +1,6 @@
 # Image-Denoising
 
-> This work has been done as a part of Master Thesis Intern Exam. Due to time bound, some specific comparison has been done.
+> This work has been done as a part of one of the Master Thesis Intern Exam. Due to time bound, some specific comparison has been done.
 > And, It is implemented on Google Colaboratory in Tensorflows-Keras.
 
 It is a comparison of DnCNN and DIDN denoising model.
